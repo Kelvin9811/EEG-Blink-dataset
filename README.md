@@ -1,6 +1,6 @@
 # Open data set of blink EEG signals
 
-This data set contains a total of 1000 samples. These samples are separated into 2 classes which are short blinks and long blinks.Each class has a total of 500 samples. It should be noted that all the data found in this data set are not filtered.
+This data set contains a total of 1500 samples. These samples are separated into 2 classes which are short blinks and long blinks.Each class has a total of 500 samples. It should be noted that all the data found in this data set are not filtered.
 
 * Short blink example
 ![Parpadeo corto - Filtrado](https://user-images.githubusercontent.com/40574627/119079239-5622a280-b9bd-11eb-8f45-ab1df0382723.jpeg)
